@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through gmail
+- 📫 jibinshanu23@gmail.com
 
 <!---
 jibinshan/jibinshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
