@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on turning bugs into features (on purpose, of course)!<br>👯 I’m looking to collaborate on Web Server Development.<br>🌱 I’m currently learning Linux and Motion Designing.<br>💬 Ask me about JS, TS, React, NextJS (Anything Web).
+🔭 I’m currently working on turning bugs into features (on purpose, of course)!<br>👯 I’m looking to collaborate on Web Server Development.<br>🌱 I’m currently learning Linux and Motion Designing.<br>💬 Ask me about JS, TSn, React, NextJS (Anything Web).
 
 
 ## 🌐 Socials:
